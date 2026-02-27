@@ -1,1 +1,2 @@
-FindAmplitudeOfArray. VBNet Tutorials. DotNet FrameWork Platform. Console Application. Arrays. Algorithms. Simple Input/Output. 
+FindAmplitudeOfArray. VB.Net Tutorials. DotNet FrameWork Platform. Simple Input/Output. Arrays. Algorithms. Console Application. 
+FindAmplitudeOfArray. Занятия по VB.Net. Платформа DotNet FrameWork. Простой Ввод/Вывод. Массивы. Алгоритмы. Консольное приложение.
